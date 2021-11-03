@@ -2,6 +2,9 @@
 
 ... use your storage with Oracle Object Store
 
+[![Build Status](https://travis-ci.com/mixaal/ocidrive.svg?branch=master)](https://travis-ci.com/mixaal/ocidrive)
+
+
 ## Quick Start
 
 Make sure you have the Object Storage, bucket and you know the compartment id where the storage is configured and also have access there.

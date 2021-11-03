@@ -2,8 +2,6 @@
 
 ... use your storage with Oracle Object Store
 
-[![Build Status](https://travis-ci.com/mixaal/ocidrive.svg?branch=master)](https://travis-ci.com/mixaal/ocidrive)
-
 
 ## Quick Start
 
